@@ -1,6 +1,6 @@
 # Switch
 
-**TODO: Add description**
+GenStateMachine example application which can be called via GenStateMachine APIs
 
 ## Installation
 
